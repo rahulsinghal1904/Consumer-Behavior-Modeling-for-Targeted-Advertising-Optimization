@@ -2,9 +2,6 @@
 
 **Goal**: Predict which users are more likely to click on digital ads using behavioral and demographic data.
 
-![Consumer Behavior](images/consumer_behavior.jpg)
-
-
 ## 📌 Overview
 
 This project analyzes consumer behavior data to predict ad click-through likelihood, integrating principles from behavioral economics and psychology. It aims to identify key factors influencing engagement and optimize marketing strategies accordingly.
